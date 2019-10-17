@@ -18,6 +18,7 @@ You will also need to have software installed to run and execute an [iPython Not
 
 It is recommended to install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
 
-### For detailed description i.e understanding the working of K-Means Clustering [Click Here](https://towardsdatascience.com/understanding-  k-means-clustering-in-machine-learning-6a6e67336aa1)
+### For detailed description i.e understanding the working of K-Means Clustering [Click Here]
+(https://towardsdatascience.com/understanding-  k-means-clustering-in-machine-learning-6a6e67336aa1)
  
 ### Official Documentation of K-Means can be found here [Click Here](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
