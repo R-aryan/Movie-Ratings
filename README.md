@@ -20,4 +20,5 @@ It is recommended to install [Anaconda](https://www.continuum.io/downloads), a p
 
 For detailed description i.e understanding the working of K-Means Clustering [Click Here](https://towardsdatascience.com/understanding-  k-means-clustering-in-machine-learning-6a6e67336aa1)
  
-Official Documentation of K-Means can be found here [Click Here](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
+## Official Documentation of K-Means can be found at 
+[Click Here](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
